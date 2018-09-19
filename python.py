@@ -1,9 +1,5 @@
+
 print ("welcome to python program")
 
-
-
-
-
- python python.py
+Output of the above program:
 welcome to python program
-
