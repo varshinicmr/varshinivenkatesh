@@ -1,12 +1,11 @@
+
 x=2
 y=1
 while(y<=10):
  print(x,"*",y,"=",x*y)
  y=y+1
 
-
-
-python numbers.py
+Output of the above program:
 (2, '*', 1, '=', 2)
 (2, '*', 2, '=', 4)
 (2, '*', 3, '=', 6)
@@ -17,4 +16,3 @@ python numbers.py
 (2, '*', 8, '=', 16)
 (2, '*', 9, '=', 18)
 (2, '*', 10, '=', 20)
-
