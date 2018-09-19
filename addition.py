@@ -1,5 +1,12 @@
+
 a=43
-a=32
+b=32
 #add a and b
 c=a+b
 print(a,"+",b,"=",c)
+
+
+
+python addition.py
+(43, '+', 32, '=', 75)
+
