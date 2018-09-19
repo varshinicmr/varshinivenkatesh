@@ -1,4 +1,4 @@
-Q1)How to use relational operations in python programming?
+Q2)How to use relational operations in python programming?
 A:By writing the following program in sublime text:
 a=input("enter value of a:")
 b=input("enter value of b:")
