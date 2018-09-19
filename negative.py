@@ -1,3 +1,5 @@
+Q5)How to use relational operation in python programming?
+A:By writing the following program in sublime text:
 a=input("enter value of a")
 b=input("enter the value of b")
 if(a>b and a>c):
@@ -5,10 +7,7 @@ if(a>b and a>c):
 elif(b>a):
      print(b,"is negative")
 
-
-
-    python negative.py
+Output of the above program:
 enter value of a200
 enter the value of b400
 (400, 'is negative')
-
