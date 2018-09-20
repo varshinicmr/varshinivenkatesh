@@ -20,3 +20,16 @@ Output of above program:
 enter value of a433
 enter value of b555
 (433, '-', 555, '=', -122)
+
+C)MULTIPLICATION:
+a=int(input("enter value of a"))
+b=int(input("enter value of b"))
+#add a and b
+c=a*b
+print(a,"*",b,"=",c)
+
+Output of above program:
+enter value of a273
+enter value of b365
+(273, '*', 365, '=', 99645)
+
