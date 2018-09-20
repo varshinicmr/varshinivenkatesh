@@ -1,4 +1,5 @@
-
+10. PRINTING TABLE OF 2:
+ 
 x=2
 y=1
 while(y<=10):
