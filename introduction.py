@@ -1,9 +1,7 @@
-Q3)How to communicate using python programming?
-A:By writing the following in sublime text:
-#write a program to ask the user her/him name
-#greet the use using that name
-#e.g: Hello,Varsha,how are you?
-print("hello,")
-
+3.GREETING THE USER BY ASKING THEIR NAME:
+a=input("Whats your name???")
+    print("hello"a "how are you....")
+          
 Output of above program:
-hello,
+Whats your name????varshini
+   hellow varshini how are you..... 
