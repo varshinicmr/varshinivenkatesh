@@ -1,4 +1,5 @@
-
+8. PRINTING NUMBERS FROM 1 TO 5:
+    
 x=1
 while x<=5:
     print(x)
@@ -10,9 +11,3 @@ Output of the above program:
 3
 4
 5
-
-
-
-
-
-
