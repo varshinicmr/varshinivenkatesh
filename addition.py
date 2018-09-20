@@ -1,5 +1,5 @@
-Q1)How to add two integers by using python programming?
-A:By writing the following program in sublime text:
+2. BASIC ARITHMETIC OPERATIONS
+A)ADDITION:    
 a=43
 b=32
 #add a and b
