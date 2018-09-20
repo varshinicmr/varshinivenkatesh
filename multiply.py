@@ -1,5 +1,5 @@
-Q4)How to use relational operations in python programming?
-A:By writing the following program in sublime text:
+4.COMPARING TWO NUMBERS:
+	
 a=input("enter value for a:")
 b=input("enter value for b:")
 if(a>b):
