@@ -1,4 +1,4 @@
-1. FIRST PROGRAM
+1. FIRST PROGRAM:
 
 print ("welcome to python program")
 
