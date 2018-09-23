@@ -1,10 +1,10 @@
-TABLE 2 BY RANGE FUNCTION:
+15. PRINTING TABLE OF 2 USING FOR LOOP:
 	
 x=2
 for i in range(1,11):
 	print(x,"X",i,"=",x*i)
 
-OUTPUT:
+Output of above program:
 (2, 'X', 1, '=', 2)
 (2, 'X', 2, '=', 4)
 (2, 'X', 3, '=', 6)
