@@ -1,4 +1,4 @@
-
+17. PRINT TABLES UPTO THE NUMBER PROVIDED BY THE USER:
 
 n=int(input("enter value of n"))
 for i in range(1,n):
