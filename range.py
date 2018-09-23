@@ -1,4 +1,4 @@
-14. PRINTING RANGE NUMBER USING FOR LOOP:
+16. PRINTING RANGE NUMBER USING FOR LOOP:
 	
 for i in range(1,6):
 	print(i)
@@ -10,7 +10,7 @@ Output of above program:
 4
 5
 
-15. PRINTING TABLE OF 2 USING FOR LOOP:
+17. PRINTING TABLE OF 2 USING FOR LOOP:
 	
 x=2
 for i in range(1,11):
