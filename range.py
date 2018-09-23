@@ -3,7 +3,7 @@
 for i in range(1,6):
 	print(i)
 
-OUTPUT:
+Output of above program:
 1
 2
 3
