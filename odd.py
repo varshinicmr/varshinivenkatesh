@@ -1,10 +1,10 @@
-ODD FUNCTION:
+14. ODD FUNCTION:
 	
 for i in range(0,251):
 	if i%2!=0:
 		print(i)
 
-OUTPUT:
+Output of above program:
 1
 3
 5
@@ -132,7 +132,7 @@ OUTPUT:
 249
 251
 
-ODD FUNCTION USING WHILE LOOP:
+15. ODD FUNCTION USING WHILE LOOP:
 	
 x=1
 while x<=251:
@@ -140,7 +140,7 @@ while x<=251:
 		print(x)
 	x=x+1
 
-OUTPUT:
+Output of above program:
 1
 3
 5
