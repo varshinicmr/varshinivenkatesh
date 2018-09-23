@@ -1,11 +1,10 @@
+ODD FUNCTION:
+	
 for i in range(0,251):
 	if i%2!=0:
 		print(i)
 
-
-
-
- python odd.py
+OUTPUT:
 1
 3
 5
@@ -131,4 +130,4 @@ for i in range(0,251):
 245
 247
 249
-
+251
