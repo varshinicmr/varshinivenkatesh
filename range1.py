@@ -1,4 +1,4 @@
-16. PRINTING TABLE FROM 1 TO 20 USING FOR LOOP:
+18. PRINTING TABLE FROM 1 TO 20 USING FOR LOOP:
 	
 for i in range(1,21):
 	for j in range(1,11):
@@ -206,7 +206,7 @@ Output of above program:
 (20, 'X', 9, '=', 180)
 (20, 'X', 10, '=', 200)
 
-17. PRINT TABLES UPTO THE NUMBER PROVIDED BY THE USER:
+19. PRINT TABLES UPTO THE NUMBER PROVIDED BY THE USER:
 
 n=int(input("enter value of n"))
 for i in range(1,n):
