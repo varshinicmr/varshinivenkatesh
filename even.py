@@ -1,10 +1,10 @@
+EVEN FUNCTION:
+	
 for i in range(0,251):
 	if i%2==0:
 		print(i)
 
-
-
-python even.py
+OUTPUT:
 0
 2
 4
@@ -131,4 +131,3 @@ python even.py
 246
 248
 250
-
