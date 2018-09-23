@@ -1,12 +1,11 @@
+EVEN FUNCTION USING WHILE LOOP:
 x=1
 while x<=251:
 	if(x%2==0):
 		print(x)
 	x=x+1
 
-
-
- python even1.py
+OUTPUT:
 2
 4
 6
@@ -132,4 +131,3 @@ while x<=251:
 246
 248
 250
-
