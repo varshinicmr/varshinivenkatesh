@@ -1,4 +1,4 @@
-MULTIPLICATION BY RANGE FUNCTION:
+TABLES BY RANGE FUNCTION:
 	
 for i in range(1,21):
 	for j in range(1,11):
