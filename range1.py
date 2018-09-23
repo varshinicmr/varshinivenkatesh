@@ -1,10 +1,10 @@
-TABLES BY RANGE FUNCTION:
+16. PRINT TABLES UPTO THE NUMBER PROVIDED BY THE USER:
 	
 for i in range(1,21):
 	for j in range(1,11):
 		print(i,"X",j,"=",i*j)
 
-OUTPUT:
+Output of above program:
 (1, 'X', 1, '=', 1)
 (1, 'X', 2, '=', 2)
 (1, 'X', 3, '=', 3)
