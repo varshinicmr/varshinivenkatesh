@@ -1,10 +1,10 @@
-EVEN FUNCTION:
+12. EVEN FUNCTION:
 	
 for i in range(0,251):
 	if i%2==0:
 		print(i)
 
-OUTPUT:
+Output of above program:
 0
 2
 4
@@ -132,14 +132,14 @@ OUTPUT:
 248
 250
 
-EVEN FUNCTION USING WHILE LOOP:
+13. EVEN FUNCTION USING WHILE LOOP:
 x=1
 while x<=251:
 	if(x%2==0):
 		print(x)
 	x=x+1
 
-OUTPUT:
+Output of above program:
 2
 4
 6
