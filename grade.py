@@ -1,4 +1,4 @@
-11: GRADE FUNCTION USING PYTHON PROGRAMMING:
+11. GRADE FUNCTION USING PYTHON PROGRAMMING:
 	
 a=int(input("marks"))
 if(a>=90):
@@ -14,8 +14,8 @@ elif(a>=40):
 else:
 	print("fail")
 
-OUTPUT:
- 
+Output of above program:
+	
 marks90
 grade-A+
 
