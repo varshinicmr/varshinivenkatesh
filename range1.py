@@ -1,10 +1,10 @@
+MULTIPLICATION BY RANGE FUNCTION:
+	
 for i in range(1,21):
 	for j in range(1,11):
 		print(i,"X",j,"=",i*j)
 
-
-
-python range1.py
+OUTPUT:
 (1, 'X', 1, '=', 1)
 (1, 'X', 2, '=', 2)
 (1, 'X', 3, '=', 3)
@@ -205,4 +205,3 @@ python range1.py
 (20, 'X', 8, '=', 160)
 (20, 'X', 9, '=', 180)
 (20, 'X', 10, '=', 200)
-
