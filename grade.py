@@ -1,3 +1,5 @@
+GRADE FUNCTION USING PYTHON PROGRAMMING:
+	
 a=int(input("marks"))
 if(a>=90):
 	print("grade-A+")
@@ -12,17 +14,13 @@ elif(a>=40):
 else:
 	print("fail")
 
-
-
- python grade.py
+OUTPUT:
+ 
 marks90
 grade-A+
-dl210@soetcse:~/varshini$ 85
-85: command not found
-dl210@soetcse:~/varshini$ python grade.py
+
 marks85
 grade-A
-dl210@soetcse:~/varshini$ python grade.py
+
 marks35
 fail
-
