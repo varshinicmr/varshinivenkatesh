@@ -1,10 +1,10 @@
+TABLE 2 BY RANGE FUNCTION:
+	
 x=2
 for i in range(1,11):
 	print(x,"X",i,"=",x*i)
 
-
-
-python range3.py
+OUTPUT:
 (2, 'X', 1, '=', 2)
 (2, 'X', 2, '=', 4)
 (2, 'X', 3, '=', 6)
@@ -15,4 +15,3 @@ python range3.py
 (2, 'X', 8, '=', 16)
 (2, 'X', 9, '=', 18)
 (2, 'X', 10, '=', 20)
-
