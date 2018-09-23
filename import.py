@@ -1,4 +1,4 @@
-18. RELATIONAL OPERATORS:
+20. RELATIONAL OPERATORS:
   
 >>>
 3**3
@@ -16,7 +16,7 @@
       >>>6!=7
       True
       
-19. RANDOM FUNCTION:
+21. RANDOM FUNCTION:
   
 import random
 r=random.randint(1,6)
