@@ -1,3 +1,4 @@
+PRINTING RANDOM NO. USING DICE FUNCTION:
 import random
 while True:
 	a=input("press y to roll")
